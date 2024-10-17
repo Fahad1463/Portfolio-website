@@ -1,0 +1,313 @@
+@media only screen and (max-width: 1193px) {
+    #homepage-main h2 {
+        font-size: 52px;
+    }
+
+    .btn-three {
+        display: none;
+    }
+
+    .carousel_anime {
+        left: calc(27% - 300px);
+    }
+
+    .end-homepage {
+        background-size: 116% 98%;
+        padding: 79px;
+    }
+
+    .sec-sm {
+        padding: 49px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .carousel_anime {
+        left: calc(34% - 300px);
+    }
+
+    .home-section {
+        display: block;
+        padding: 50px;
+    }
+
+    #sec-1 {
+        width: 100%;
+        padding-left: 250px;
+        padding-right: 250px;
+    }
+
+    #sec-2 {
+        width: 100%;
+        padding-left: 100px;
+    }
+
+    .navbar-nav {
+        background-color: #100028;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+    body {
+        background-size: 120% 8%;
+    }
+
+    .home-mid {
+        display: block;
+    }
+
+    .submid-1 {
+        width: 100%;
+    }
+
+    .submid-2 {
+        width: 100%;
+    }
+
+    .video-sec {
+        margin-top: 150px;
+    }
+
+    .carousel_anime {
+        left: calc(38% - 300px);
+    }
+
+    #homepage-main {
+        width: 60%;
+    }
+
+    #homepage-main h2 {
+        font-size: 45px;
+    }
+
+    .sec-sm2 {
+        padding: 50px;
+    }
+
+    .sec-sm3 {
+        padding: 50px;
+    }
+
+    .sec-sm4 {
+        padding: 50px;
+    }
+
+    .end-homepage {
+        background-size: 140% 96%;
+        padding: 75px;
+        background-position: center;
+    }
+
+    .end-homepage h2 {
+        object-fit: cover;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    #sec-1 {
+        padding-left: 165px;
+    }
+
+    .sec-sm2 {
+        padding: 36px;
+    }
+
+    .sec-sm3 {
+        padding: 36px;
+    }
+
+    .sec-sm4 {
+        padding: 36px;
+    }
+
+    .carousel_anime {
+        left: calc(41% - 300px);
+    }
+
+    .f-div2 {
+        flex-wrap: wrap;
+    }
+
+    #homepage-main h2 {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-size: 156% 5.6%;
+        background-position: top;
+    }
+
+    #sec-1 {
+        padding-left: 95px;
+        padding-right: 172px;
+        position: relative;
+        top: 200px;
+    }
+
+    #sec-2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 260px;
+        width: 100%;
+        padding-left: 0px;
+        gap: 40px;
+    }
+
+    .box-3-ani {
+        display: none;
+        height: 0%;
+    }
+
+    .carousel_anime {
+        height: 1262px;
+        left: calc(73% - 300px);
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .home-section {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .sec-img2 {
+        top: 0px;
+        height: 75%;
+        width: 50%;
+    }
+
+    .sec-img3 {
+        top: 0px;
+        height: 75%;
+        width: 50%;
+    }
+
+    .sec-img4 {
+        top: 0px;
+        height: 75%;
+        width: 50%;
+    }
+
+    .btn-hide {
+        display: block;
+        position: relative;
+        bottom: 380px;
+    }
+
+    #homepage-main h4 {
+        font-size: 14px;
+    }
+
+    #homepage-main h2 {
+        font-size: 35px;
+    }
+
+    #homepage-main {
+        width: 75%;
+    }
+
+    .f-div1 {
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    #sec-1 {
+        padding-left: 87px;
+        padding-right: 108px;
+    }
+
+    .carousel_anime {
+        left: calc(82% - 300px);
+    }
+
+    .end-homepage {
+        background-size: 140% 96%;
+        padding: 30px;
+        background-position: top;
+    }
+
+    #homepage-main {
+        width: 85%;
+    }
+
+    #homepage-main h2 {
+        font-size: 31px;
+    }
+
+    .f-div1 {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #homepage-main {
+        width: 100%;
+    }
+
+    #homepage-main h4 {
+        font-size: 13px;
+    }
+
+    #homepage-main h2 {
+        font-size: 27px;
+    }
+
+    #sec-1 {
+        padding-left: 28px;
+        padding-right: 61px;
+    }
+
+    #sec-2 {
+        padding-left: 10px;
+    }
+
+    .sec-img2 {
+        width: 70%;
+    }
+
+    .sec-img3 {
+        width: 70%;
+    }
+
+    .sec-img4 {
+        width: 70%;
+    }
+
+    .carousel-cards {
+        width: 225px;
+    }
+
+    .carousel_anime {
+        left: calc(98% - 300px);
+    }
+
+    .end-homepage h2 {
+        object-fit: cover;
+        white-space: pre;
+        width: 0%;
+    }
+
+    #fs-div1 {
+        width: 100%;
+    }
+
+    #fs-div2 {
+        width: 50%;
+    }
+
+    #fs-div3 {
+        width: 50%;
+    }
+
+    #fs-div4 {
+        width: 100%;
+    }
+}
